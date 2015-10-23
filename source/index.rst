@@ -11,6 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   preamble
+   001-kandan
 
 
 Indices and tables
